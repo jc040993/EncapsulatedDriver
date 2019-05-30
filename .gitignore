@@ -1,0 +1,5 @@
+.classpath
+mssql-jdbc-*.jar
+
+test/
+build/
